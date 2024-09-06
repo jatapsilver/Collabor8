@@ -1,0 +1,48 @@
+.navbarContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: black;
+    padding-bottom: 1em;
+    align-items: center;
+    background-color: #1E90FF;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    img{
+        height: 80px;
+        padding: 20px 0 0 20px;
+    }
+}
+
+.link{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 40px 0 0 0;
+    gap: 2em;
+    font-size: 1.3em;
+    color: black;
+   
+    span:hover{
+        color: #D3D3D3;
+        cursor: pointer;
+    }
+    a{
+        color: white;
+        text-decoration: none;
+    }
+}
+
+.avatar{
+    display: grid;
+    place-items: center;
+    height: 100%;
+    img {
+        width: 60px;
+        padding: 18px 40px 0 0;
+    }
+}

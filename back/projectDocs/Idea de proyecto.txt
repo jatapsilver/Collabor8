@@ -1,0 +1,18 @@
+
+Centro de Co-Working:
+
+Los usuarios pueden reservar salas de reuniones, estaciones de trabajo o incluso oficinas privadas. El sistema podría incluir opciones para reservar equipo adicional como proyectores o impresoras.
+
+UX/UI Usuario
+-Landing de bienvenida
+-Barra de navegacion
+-Home con informacion
+-About
+-Contactanos
+-Formulaio de registro, login, creacion de turno
+-Formularios amigables
+    * que muestre errores en tiempo real
+    * que no se reinicie
+    * que habilite el botono una vez completado
+    * que sea orientativo
+    * que filtre fechas invalidadas

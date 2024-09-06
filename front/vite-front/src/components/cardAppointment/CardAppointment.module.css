@@ -1,0 +1,22 @@
+.container{
+    background-color: #34495E ;
+    color: whitesmoke;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    
+}
+
+.active{
+    color: lightgreen;
+}
+
+.cancelled{
+    color: lightcoral;
+
+}
+

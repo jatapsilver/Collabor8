@@ -1,0 +1,52 @@
+historia de Usuario:
+
+Registro de Usuarios:
+
+Como nuevo usuario, quiero registrarme en la página web del Centro de Co-Working, para que pueda acceder al sistema de reservas.
+Criterios de Aceptación:
+
+*   El usuario puede crear una cuenta proporcionando su nombre, correo electrónico y contraseña.
+*   El sistema envía un correo de verificación para activar la cuenta.
+*   El usuario puede iniciar sesión una vez que su cuenta esté activada.
+*   Modificar datos de usuairo en su perfil y pueda subir una foto
+*   El usuario debe poder cerrar sesion
+
+Como usuario registrado, quiero ver la disponibilidad de salas de reuniones, estaciones de trabajo y oficinas privada, para que pueda elegir un espacio según mis necesidades.
+Criterios de Aceptación:
+
+*   El sistema permite tipo de espacio y duración
+*   El usuario podra reservar apartir del siguiente dia en el horario de 9:00 a las 17:00 con un maximo de 14 dias
+
+Reserva de Espacios:
+
+Como usuario registrado, quiero poder reservar salas de reuniones, estaciones de trabajo o oficinas privadas, para que pueda garantizar un espacio para mi uso en el Centro de Co-Working.
+Criterios de Aceptación:
+
+*   El sistema permite elegir la duración de la reserva (por horas, medio día, día completo).
+*   El usuario recibe una confirmación de la reserva por correo electrónico.
+
+Reserva de Equipos Adicionales:
+
+Como usuario, quiero poder reservar equipos adicionales como proyectores o impresoras junto con mi espacio, para que tenga todo lo que necesito durante mi estancia en el Centro de Co-Working.
+Criterios de Aceptación:
+
+*   Al reservar un espacio, el usuario tiene la opción de añadir equipos adicionales disponibles.
+*   La reserva de equipos se confirma junto con la reserva del espacio y se detalla en el correo de confirmación.
+
+Gestión de Reservas:
+
+Como usuario, quiero poder ver y gestionar mis reservas existentes, para que pueda cancelar reservas según mis necesidades cambiantes.
+Criterios de Aceptación:
+
+*   El usuario puede acceder a una sección de "Mis Reservas" para ver todas las reservas actuales y futuras.
+*   El usuario puede cancelar una reserva con un maximo de 60 minutos antes de inicar la reserva
+*   Las modificaciones y cancelaciones se confirman por correo electrónico.
+
+Notificaciones y Recordatorios:
+
+Como usuario, quiero recibir notificaciones y recordatorios de mis reservas, para que no olvide mis citas en el Centro de Co-Working.
+Criterios de Aceptación:
+
+*   El sistema envía una notificación de confirmación inmediatamente después de realizar una reserva.
+*   Se envían recordatorios automáticos 24 horas y 1 hora antes de la reserva.
+*   Se envia una notificacion cuando un usuario canlela una reserva
